@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://g-ydg.github.io/categories/index.html</loc>
+    <loc>https://g-ydg.github.io/tags/index.html</loc>
     
     <lastmod>2021-05-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://g-ydg.github.io/tags/index.html</loc>
+    <loc>https://g-ydg.github.io/categories/index.html</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -89,6 +89,13 @@
   
   <url>
     <loc>https://g-ydg.github.io/tags/Generator/</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/tags/Opcode/</loc>
     <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
