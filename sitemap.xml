@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://g-ydg.github.io/2021/11/04/PHP%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88generator%EF%BC%89/</loc>
+    
+    <lastmod>2021-11-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/2021/11/04/PHP%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/</loc>
+    
+    <lastmod>2021-11-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/2021/10/31/Github-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2021-11-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://g-ydg.github.io/about/index.html</loc>
     
     <lastmod>2021-10-31</lastmod>
@@ -16,9 +37,9 @@
   </url>
   
   <url>
-    <loc>https://g-ydg.github.io/2021/10/31/Github-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://g-ydg.github.io/tags/index.html</loc>
     
-    <lastmod>2021-10-31</lastmod>
+    <lastmod>2021-05-31</lastmod>
     
   </url>
   
@@ -29,17 +50,10 @@
     
   </url>
   
-  <url>
-    <loc>https://g-ydg.github.io/tags/index.html</loc>
-    
-    <lastmod>2021-05-31</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://g-ydg.github.io/</loc>
-    <lastmod>2021-10-31</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,21 +61,49 @@
   
   <url>
     <loc>https://g-ydg.github.io/tags/Github/</loc>
-    <lastmod>2021-10-31</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://g-ydg.github.io/tags/Hexo/</loc>
-    <lastmod>2021-10-31</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://g-ydg.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-10-31</lastmod>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/tags/PHP/</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/tags/Zend/</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/tags/Opcache/</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/tags/Generator/</loc>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -69,8 +111,15 @@
 
   
   <url>
-    <loc>https://g-ydg.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2021-10-31</lastmod>
+    <loc>https://g-ydg.github.io/categories/Hexo/</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://g-ydg.github.io/categories/PHP/</loc>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

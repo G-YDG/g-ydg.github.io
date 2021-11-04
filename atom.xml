@@ -6,7 +6,7 @@
   <link href="https://g-ydg.github.io/atom.xml" rel="self"/>
   
   <link href="https://g-ydg.github.io/"/>
-  <updated>2021-10-31T10:13:39.001Z</updated>
+  <updated>2021-11-04T08:43:41.853Z</updated>
   <id>https://g-ydg.github.io/</id>
   
   <author>
@@ -17,11 +17,63 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PHP底层原理以及代码执行过程</title>
+    <link href="https://g-ydg.github.io/2021/11/04/PHP%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/"/>
+    <id>https://g-ydg.github.io/2021/11/04/PHP%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/</id>
+    <published>2021-11-04T07:20:51.000Z</published>
+    <updated>2021-11-04T08:43:41.853Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;PHP的底层原理&quot;&gt;&lt;a href=&quot;#PHP的底层原理&quot; class=&quot;headerlink&quot; title=&quot;PHP的底层原理&quot;&gt;&lt;/a&gt;PHP的底层原理&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://cdn.nlark.com/yuque/0/2021/w</summary>
+      
+    
+    
+    
+    <category term="PHP" scheme="https://g-ydg.github.io/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://g-ydg.github.io/tags/PHP/"/>
+    
+    <category term="Zend" scheme="https://g-ydg.github.io/tags/Zend/"/>
+    
+    <category term="Opcache" scheme="https://g-ydg.github.io/tags/Opcache/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP的生成器（generator）</title>
+    <link href="https://g-ydg.github.io/2021/11/04/PHP%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88generator%EF%BC%89/"/>
+    <id>https://g-ydg.github.io/2021/11/04/PHP%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88generator%EF%BC%89/</id>
+    <published>2021-11-04T06:52:35.000Z</published>
+    <updated>2021-11-04T08:43:41.874Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;什么是生成器&lt;/strong&gt;&lt;br&gt;生成器其实就是一个用于迭代的迭代器。它提供了一种更容易的方式来实现对象迭代，相比定义类实现Iterator接口的方式大大降低性能开销和复杂度。&lt;/p&gt;
+&lt;p&gt;看以下代码&lt;/p&gt;
+&lt;figure class=&quot;highli</summary>
+      
+    
+    
+    
+    <category term="PHP" scheme="https://g-ydg.github.io/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://g-ydg.github.io/tags/PHP/"/>
+    
+    <category term="Generator" scheme="https://g-ydg.github.io/tags/Generator/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Github+Hexo搭建个人博客</title>
     <link href="https://g-ydg.github.io/2021/10/31/Github-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>https://g-ydg.github.io/2021/10/31/Github-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-10-31T09:05:07.000Z</published>
-    <updated>2021-10-31T10:13:39.001Z</updated>
+    <updated>2021-11-04T08:16:27.614Z</updated>
     
     
       
@@ -32,7 +84,7 @@
     
     
     
-    <category term="前端" scheme="https://g-ydg.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="Hexo" scheme="https://g-ydg.github.io/categories/Hexo/"/>
     
     
     <category term="Github" scheme="https://g-ydg.github.io/tags/Github/"/>
