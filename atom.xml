@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ydd</title>
+  
+  <subtitle>ydd</subtitle>
+  <link href="https://g-ydg.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://g-ydg.github.io/"/>
+  <updated>2026-02-22T02:04:02.768Z</updated>
+  <id>https://g-ydg.github.io/</id>
+  
+  <author>
+    <name>Ydd</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker日志清理</title>
+    <link href="https://g-ydg.github.io/2024/11/06/Docker%E6%97%A5%E5%BF%97%E6%B8%85%E7%90%86/"/>
+    <id>https://g-ydg.github.io/2024/11/06/Docker%E6%97%A5%E5%BF%97%E6%B8%85%E7%90%86/</id>
+    <published>2024-11-06T19:54:22.000Z</published>
+    <updated>2026-02-22T02:04:02.768Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;查看容器数据大小并排序&quot;&gt;&lt;a href=&quot;#查看容器数据大小并排序&quot; class=&quot;headerlink&quot; title=&quot;查看容器数据大小并排序&quot;&gt;&lt;/a&gt;查看容器数据大小并排序&lt;/h2&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;tabl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wechaty+ChatGPT 实现个人聊天机器人</title>
+    <link href="https://g-ydg.github.io/2023/09/03/Wechaty+ChatGPT%20%E5%AE%9E%E7%8E%B0%E4%B8%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <id>https://g-ydg.github.io/2023/09/03/Wechaty+ChatGPT%20%E5%AE%9E%E7%8E%B0%E4%B8%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</id>
+    <published>2023-09-03T22:32:07.000Z</published>
+    <updated>2026-02-22T02:04:02.786Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;&lt;font style=&quot;color:rgb(31, 35, 40);&quot;&gt;介绍&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;font style=&quot;color:r</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云CLI</title>
+    <link href="https://g-ydg.github.io/2023/05/17/%E9%98%BF%E9%87%8C%E4%BA%91CLI/"/>
+    <id>https://g-ydg.github.io/2023/05/17/%E9%98%BF%E9%87%8C%E4%BA%91CLI/</id>
+    <published>2023-05-17T22:49:05.000Z</published>
+    <updated>2026-02-22T02:04:02.813Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;&lt;font style=&quot;color:rgb(24, 24, 24);&quot;&gt;阿里云命令行工具（Alibaba Cloud Command Li</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes Tutorials ｜ k8s 教程</title>
+    <link href="https://g-ydg.github.io/2023/04/03/Kubernetes%20Tutorials%20%EF%BD%9C%20k8s%20%E6%95%99%E7%A8%8B/"/>
+    <id>https://g-ydg.github.io/2023/04/03/Kubernetes%20Tutorials%20%EF%BD%9C%20k8s%20%E6%95%99%E7%A8%8B/</id>
+    <published>2023-04-03T18:13:01.000Z</published>
+    <updated>2026-02-22T02:04:16.736Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;【代码仓库】&lt;a href=&quot;https://github.com/G-YDG/k8s-tutorials&quot;&gt;Kubernetes Tutorials ｜ k8s 教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;k8s 作为云原生时代的操作系统，学习它的必要性不言而喻，如果你遇到了任何问题，可</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>COS + Github Actions 实现语雀自动发布</title>
+    <link href="https://g-ydg.github.io/2023/04/02/COS%20+%20Github%20Actions%20%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9B%80%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/"/>
+    <id>https://g-ydg.github.io/2023/04/02/COS%20+%20Github%20Actions%20%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9B%80%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/</id>
+    <published>2023-04-02T23:17:38.000Z</published>
+    <updated>2026-02-22T02:04:24.469Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;配置-Github-Actions&quot;&gt;&lt;a href=&quot;#配置-Github-Actions&quot; class=&quot;headerlink&quot; title=&quot;配置 Github Actions&quot;&gt;&lt;/a&gt;配置 Github Actions&lt;/h2&gt;&lt;h3 id=&quot;Secre</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo同步语雀文章</title>
+    <link href="https://g-ydg.github.io/2023/03/30/Hexo%E5%90%8C%E6%AD%A5%E8%AF%AD%E9%9B%80%E6%96%87%E7%AB%A0/"/>
+    <id>https://g-ydg.github.io/2023/03/30/Hexo%E5%90%8C%E6%AD%A5%E8%AF%AD%E9%9B%80%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-30T23:40:30.000Z</published>
+    <updated>2026-02-22T02:04:25.533Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;初始化-Hexo&quot;&gt;&lt;a href=&quot;#初始化-Hexo&quot; class=&quot;headerlink&quot; title=&quot;初始化 Hexo&quot;&gt;&lt;/a&gt;初始化 Hexo&lt;/h2&gt;&lt;p&gt;首先先搭建 Hexo 项目，详情可参考文章 &lt;a href=&quot;https://www.yuq</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SwooleCoroutine</title>
+    <link href="https://g-ydg.github.io/2023/03/24/SwooleCoroutine/"/>
+    <id>https://g-ydg.github.io/2023/03/24/SwooleCoroutine/</id>
+    <published>2023-03-24T20:55:02.000Z</published>
+    <updated>2026-02-22T02:04:25.602Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是协程&quot;&gt;&lt;a href=&quot;#什么是协程&quot; class=&quot;headerlink&quot; title=&quot;什么是协程&quot;&gt;&lt;/a&gt;什么是协程&lt;/h2&gt;&lt;p&gt;&lt;font style=&quot;color:rgb(52, 73, 94);&quot;&gt;协程可以简单理解为线程，只不过这个线程是用</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Swoole常用配置</title>
+    <link href="https://g-ydg.github.io/2023/03/24/Swoole%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    <id>https://g-ydg.github.io/2023/03/24/Swoole%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
+    <published>2023-03-24T19:39:00.000Z</published>
+    <updated>2026-02-22T02:04:25.736Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;reactor-num&quot;&gt;&lt;a href=&quot;#reactor-num&quot; class=&quot;headerlink&quot; title=&quot;reactor_num&quot;&gt;&lt;/a&gt;reactor_num&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(44,</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP的内存泄漏</title>
+    <link href="https://g-ydg.github.io/2023/03/24/PHP%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/"/>
+    <id>https://g-ydg.github.io/2023/03/24/PHP%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/</id>
+    <published>2023-03-24T17:26:50.000Z</published>
+    <updated>2026-02-22T02:04:25.750Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font style=&quot;color:rgb(27, 27, 27);background-color:rgb(251, 251, 251);&quot;&gt;所谓的内存泄漏就是忘记释放内存，导致进程所占用的物理内存&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rg</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Argocd-状态停留在Deleting,但资源已删除</title>
+    <link href="https://g-ydg.github.io/2023/02/26/Argocd-%E7%8A%B6%E6%80%81%E5%81%9C%E7%95%99%E5%9C%A8!Deleting!,%E4%BD%86%E8%B5%84%E6%BA%90%E5%B7%B2%E5%88%A0%E9%99%A4/"/>
+    <id>https://g-ydg.github.io/2023/02/26/Argocd-%E7%8A%B6%E6%80%81%E5%81%9C%E7%95%99%E5%9C%A8!Deleting!,%E4%BD%86%E8%B5%84%E6%BA%90%E5%B7%B2%E5%88%A0%E9%99%A4/</id>
+    <published>2023-02-26T23:05:45.000Z</published>
+    <updated>2026-02-22T02:04:28.015Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/g-ydg/images/blog/FqKjClNsvfKkQOzMGorTAP1PUmNY.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;如上图所示，该应用所对应的资源均已被删除，但是 **argocd **这边一直</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EasySwoole踩坑笔记</title>
+    <link href="https://g-ydg.github.io/2022/12/04/EasySwoole%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/"/>
+    <id>https://g-ydg.github.io/2022/12/04/EasySwoole%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-12-04T19:49:44.000Z</published>
+    <updated>2026-02-22T02:04:28.022Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;使用-Composer-2-2-x-时服务无法启动&quot;&gt;&lt;a href=&quot;#使用-Composer-2-2-x-时服务无法启动&quot; class=&quot;headerlink&quot; title=&quot;使用 Composer 2.2.x 时服务无法启动&quot;&gt;&lt;/a&gt;&lt;font style</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL数据碎片整理</title>
+    <link href="https://g-ydg.github.io/2022/11/30/MySQL%E6%95%B0%E6%8D%AE%E7%A2%8E%E7%89%87%E6%95%B4%E7%90%86/"/>
+    <id>https://g-ydg.github.io/2022/11/30/MySQL%E6%95%B0%E6%8D%AE%E7%A2%8E%E7%89%87%E6%95%B4%E7%90%86/</id>
+    <published>2022-11-30T19:27:17.000Z</published>
+    <updated>2026-02-22T02:04:28.030Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;查看表的碎片情况&quot;&gt;&lt;a href=&quot;#查看表的碎片情况&quot; class=&quot;headerlink&quot; title=&quot;查看表的碎片情况&quot;&gt;&lt;/a&gt;查看表的碎片情况&lt;/h2&gt;&lt;figure class=&quot;highlight sql&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td clas</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHPStrom: PHP CS Fixer（Windows）</title>
+    <link href="https://g-ydg.github.io/2022/11/11/PHPStrom!%20PHP%20CS%20Fixer%EF%BC%88Windows%EF%BC%89/"/>
+    <id>https://g-ydg.github.io/2022/11/11/PHPStrom!%20PHP%20CS%20Fixer%EF%BC%88Windows%EF%BC%89/</id>
+    <published>2022-11-11T19:45:17.000Z</published>
+    <updated>2026-02-22T02:04:38.196Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span c</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云-NAS挂载到ECS实例</title>
+    <link href="https://g-ydg.github.io/2022/11/08/%E9%98%BF%E9%87%8C%E4%BA%91-NAS%E6%8C%82%E8%BD%BD%E5%88%B0ECS%E5%AE%9E%E4%BE%8B/"/>
+    <id>https://g-ydg.github.io/2022/11/08/%E9%98%BF%E9%87%8C%E4%BA%91-NAS%E6%8C%82%E8%BD%BD%E5%88%B0ECS%E5%AE%9E%E4%BE%8B/</id>
+    <published>2022-11-08T22:12:25.000Z</published>
+    <updated>2026-02-22T02:04:49.832Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;创建文件系统&quot;&gt;&lt;a href=&quot;#创建文件系统&quot; class=&quot;headerlink&quot; title=&quot;创建文件系统&quot;&gt;&lt;/a&gt;创建文件系统&lt;/h1&gt;&lt;p&gt;进入&lt;a href=&quot;https://nasnext.console.aliyun.com/overview</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在PHPStrom中配置Docker开发环境</title>
+    <link href="https://g-ydg.github.io/2022/10/21/%E5%9C%A8PHPStrom%E4%B8%AD%E9%85%8D%E7%BD%AEDocker%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>https://g-ydg.github.io/2022/10/21/%E5%9C%A8PHPStrom%E4%B8%AD%E9%85%8D%E7%BD%AEDocker%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</id>
+    <published>2022-10-21T18:30:23.000Z</published>
+    <updated>2026-02-22T02:05:18.282Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;拉取-Docker-镜像&quot;&gt;&lt;a href=&quot;#拉取-Docker-镜像&quot; class=&quot;headerlink&quot; title=&quot;拉取 Docker 镜像&quot;&gt;&lt;/a&gt;拉取 Docker 镜像&lt;/h1&gt;&lt;p&gt;本文以 &lt;font style=&quot;background:#C</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Alpine下PHP扩展ICONV不工作</title>
+    <link href="https://g-ydg.github.io/2022/09/08/Alpine%E4%B8%8BPHP%E6%89%A9%E5%B1%95ICONV%E4%B8%8D%E5%B7%A5%E4%BD%9C/"/>
+    <id>https://g-ydg.github.io/2022/09/08/Alpine%E4%B8%8BPHP%E6%89%A9%E5%B1%95ICONV%E4%B8%8D%E5%B7%A5%E4%BD%9C/</id>
+    <published>2022-09-08T22:59:40.000Z</published>
+    <updated>2026-02-22T02:05:18.305Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;错误&quot;&gt;&lt;a href=&quot;#错误&quot; class=&quot;headerlink&quot; title=&quot;错误&quot;&gt;&lt;/a&gt;错误&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Notice: iconv(): Wrong charset, conversion from &lt;code&gt;UTF</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux性能优化</title>
+    <link href="https://g-ydg.github.io/2022/09/02/Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    <id>https://g-ydg.github.io/2022/09/02/Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</id>
+    <published>2022-09-02T01:54:19.000Z</published>
+    <updated>2026-02-22T02:05:18.389Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;CPU&quot;&gt;&lt;a href=&quot;#CPU&quot; class=&quot;headerlink&quot; title=&quot;CPU&quot;&gt;&lt;/a&gt;CPU&lt;/h1&gt;&lt;h3 id=&quot;进程和-CPU-原理&quot;&gt;&lt;a href=&quot;#进程和-CPU-原理&quot; class=&quot;headerlink&quot; title=&quot;进</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 性能工具图谱</title>
+    <link href="https://g-ydg.github.io/2022/09/02/Linux%20%E6%80%A7%E8%83%BD%E5%B7%A5%E5%85%B7%E5%9B%BE%E8%B0%B1/"/>
+    <id>https://g-ydg.github.io/2022/09/02/Linux%20%E6%80%A7%E8%83%BD%E5%B7%A5%E5%85%B7%E5%9B%BE%E8%B0%B1/</id>
+    <published>2022-09-02T01:50:39.000Z</published>
+    <updated>2026-02-22T02:05:20.004Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/g-ydg/images/blog/FsYfmrBeDd14ja5JYUKXX4SVsjT1.png&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ACME.SH基于NGINX申请证书</title>
+    <link href="https://g-ydg.github.io/2022/08/21/ACME.SH%E5%9F%BA%E4%BA%8ENGINX%E7%94%B3%E8%AF%B7%E8%AF%81%E4%B9%A6/"/>
+    <id>https://g-ydg.github.io/2022/08/21/ACME.SH%E5%9F%BA%E4%BA%8ENGINX%E7%94%B3%E8%AF%B7%E8%AF%81%E4%B9%A6/</id>
+    <published>2022-08-21T21:59:31.000Z</published>
+    <updated>2026-02-22T02:05:20.011Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;下载安装&quot;&gt;&lt;a href=&quot;#下载安装&quot; class=&quot;headerlink&quot; title=&quot;下载安装&quot;&gt;&lt;/a&gt;下载安装&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在EasySwoole中实现Parallel</title>
+    <link href="https://g-ydg.github.io/2022/07/19/%E5%9C%A8EasySwoole%E4%B8%AD%E5%AE%9E%E7%8E%B0Parallel/"/>
+    <id>https://g-ydg.github.io/2022/07/19/%E5%9C%A8EasySwoole%E4%B8%AD%E5%AE%9E%E7%8E%B0Parallel/</id>
+    <published>2022-07-19T23:46:26.000Z</published>
+    <updated>2026-02-22T02:05:20.488Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;代码实现示例&quot;&gt;&lt;a href=&quot;#代码实现示例&quot; class=&quot;headerlink&quot; title=&quot;代码实现示例&quot;&gt;&lt;/a&gt;代码实现示例&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutt</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
